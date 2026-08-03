@@ -1,5 +1,12 @@
 ﻿# jesse-jacks0n
-# 💫 About Me:
-I’m a passionate software engineer, building solutions that merge clean design with powerful functionality.<br>I specialize in Flutter, Rust, and TypeScript, crafting mobile and web apps that just make sense.<br>Right now, I’m working on AI-powered mobile and desktop apps.<br>I'm exploring Go and Rust deeper to boost my backend game and push into decentralized tech.<br>When I’m not coding, I’m probably dreaming about my future BMW M5 or tweaking side projects for fun.
+
+# 💫 About Me
+
+I’m a software engineer focused on building polished, practical products across mobile, web, desktop, and backend systems.<br>
+My core stack includes **Flutter, C#, ASP.NET Core, TypeScript, React, and Next.js**, with a strong focus on clean architecture, thoughtful UI, and maintainable engineering.<br>
+I enjoy taking ideas from early concepts to functional products, combining reliable backend systems with simple, intuitive user experiences.<br>
+Currently, I’m building AI-powered applications, financial platforms, productivity tools, and small games while continuing to deepen my expertise in **.NET, system design, and scalable product development**.<br>
+Outside of coding, I’m usually exploring physics, aviation, emerging technology, or thinking about the future technology.
+
 
 
